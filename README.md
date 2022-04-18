@@ -9,7 +9,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alt3ri&theme=tokyonight" alt="mystreak"/>
 ![alt3ri's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt3ri&theme=tokyonight&layout=compact)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/902534396752588861?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Editing alt3: Tower of Fantasy cheeto)(https://discord.com/users/902534396752588861)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/902534396752588861?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Editing alt3: Tower of Fantasy cheeto)](https://discord.com/users/902534396752588861)
 
 🌱 I’m currently learning C, C++,... for game development and reverse engineering
 
