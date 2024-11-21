@@ -1,7 +1,11 @@
 <h1 align="center">ayo visitors</h1>
 
 ### :smiley_cat: actually dying slowly
-
+</br>
+<p align="center">
+Visitors (Start from 11/21/2024)<br>
+<img src="https://count.chiya.dev/get/@alt3ri?theme=moebooru"/>
+</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
