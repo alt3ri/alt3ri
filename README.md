@@ -4,7 +4,7 @@
 </br>
 <p align="center">
 Visitors (Start from 11/21/2024)<br>
-<img src="https://count.chiya.dev/get/@alt3ri?theme=moebooru"/>
+<img src="https://count.getloli.com/@alteri?name=alteri&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
